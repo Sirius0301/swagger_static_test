@@ -1,0 +1,5 @@
+webserver_static_sites:
+  - name: hello.ansible.com
+    root: /usr/share/nginx/hello.ansible.com
+    repository: https://github.com/Sirius0301/hello_ansible_public.git
+
